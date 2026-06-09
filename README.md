@@ -1,13 +1,6 @@
 ## Hi there 👋
+Hi, I'm Shiyang 👋, a young researcher at Shanghai AI Lab. Before joining Shanghai AI Lab, I received my Ph.D. from Fudan University in 2025.
 
-<!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: shiyangfeng980713@gmail.com
+My current research interests focus on scientific agent systems 🤖🔬 and LLM post-training 🧠. I am involved in open-source projects related to agent frameworks, automated machine learning, automated literature review 📚, and AI infrastructure ⚙️.
 
-
-
-[![shiyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiyang980713)](https://github.com/anuraghazra/github-readme-stats)
---> 
+I am always open to academic and technical collaborations 🤝 — feel free to reach out!
