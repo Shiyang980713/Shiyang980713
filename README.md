@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, I'm Shiyang 👋, a young researcher at Shanghai AI Lab. Before joining Shanghai AI Lab, I received my Ph.D. from Fudan University in 2025.
+Hi, I'm Shiyang 👋, a young researcher at Shanghai AI Lab. 
 
 My current research interests focus on scientific agent systems 🤖🔬 and LLM post-training 🧠. I am involved in open-source projects related to agent frameworks, automated machine learning, automated literature review 📚, and AI infrastructure ⚙️.
 
